@@ -60,8 +60,6 @@ void Print(Time t){
 
 int main()
 {
-    freopen("input.txt", "r", stdin);
-    freopen("output.txt", "w", stdout);
     Time t;
     Time t_add;
     Nhap(t, t_add);
